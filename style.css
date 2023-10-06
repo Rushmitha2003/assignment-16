@@ -1,0 +1,13 @@
+
+  .carousel-inner {
+    margin-top:25px;
+    height: 800px;
+margin-left:10px;
+  }
+  .img {
+    object-fit:fill;
+    width: 1880px;
+    height: 800px;
+    border:3px solid black;
+    border-radius:100px;
+  }
